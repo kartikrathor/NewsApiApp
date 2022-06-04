@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "NewsAppPractical",
+    "slug": "NewsAppPractical",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
